@@ -1,5 +1,4 @@
 # Diabetes
-=======
 # Diabetes Prediction with KNN 🤖
 
 This project focuses on predicting whether a person has diabetes based on their medical measurements using the **K-Nearest Neighbors (KNN)** algorithm.
